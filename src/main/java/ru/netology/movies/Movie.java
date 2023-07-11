@@ -1,3 +1,5 @@
+package ru.netology.movies;
+
 public class Movie {
     private String title;
 
